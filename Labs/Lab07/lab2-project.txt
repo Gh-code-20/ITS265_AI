@@ -1,0 +1,7 @@
+Name	project
+A	90
+B	95
+C	85
+D	71
+E	82
+F	70

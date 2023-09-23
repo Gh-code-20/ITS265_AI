@@ -1,0 +1,7 @@
+Name	quiz1	quiz2	quiz3	quiz4	quiz5
+A	9	8	10	10	8
+B	9	10	8	7	10
+C	8	8	10	7	7
+D	8	9	10	10	10
+E	10	9	8	7	10
+F	7	9	7	6	9
