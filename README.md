@@ -1,1 +1,2 @@
-# ITS265_AI
+# ITS 26500 - Introduction To Artificial Intelligence
+This course covers the theory and methodologies associated with the development of Artificial Intelligence based systems. Topics covered include: Intelligent agents, problem solving via search methods, knowledge representation and reasoning, uncertain knowledge and probabilistic reasoning, learning and reinforcement learning, communicating, perceiving, and acting, natural language processing and robotics, and other special topics. 
